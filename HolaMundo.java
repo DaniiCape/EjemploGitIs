@@ -7,7 +7,9 @@ public static void main (String [] args ){
     System.out.println("No problema yo te ayudo");
     System.out.println("YO me encargo de esa parte");
     System.out.println("tronar, tronar y trona a ar");
+    System.out.println("ya tiene identación");
 }
+
 
 
 }
