@@ -1,11 +1,20 @@
 public class HolaMundo {
 
 
+<<<<<<< HEAD
 public static void main (String [] args ){
 System.out.print("Que pedooo, no me acuerdo de java bye \n");
 System.out.println("No problema yo te ayudo");
 System.out.println("YO me encargo de esa parte");
+System.out.println("tronar, tronar y trona a ar");
 }
+=======
+    public static void main (String [] args ){
+	System.out.print("Que pedooo, no me acuerdo de java bye \n");
+	System.out.println("No problema yo te ayudo");
+	System.out.println("Yo me encargo de esa parte");
+    }
+>>>>>>> eba3b6f4a9a4a1c603dc876066ce0413e331d45c
 
 
 }
